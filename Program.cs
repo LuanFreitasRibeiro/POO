@@ -67,9 +67,6 @@ namespace POO
                     student.CrateSubscription(payPalSubscription);
                 }
             }
-
-            var aa = new PHeranca();
-            aa.Test();
         }
     }
 }
