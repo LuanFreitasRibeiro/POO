@@ -1,2 +1,2 @@
 # POO
-Project for study OO
+Project for study OO.
