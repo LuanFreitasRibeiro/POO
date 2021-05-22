@@ -9,6 +9,6 @@ namespace POO.SharedContext
         {
             Id = Guid.NewGuid(); // SPOF - Sinlge Point of Failure
         }
-        public Guid Id { get; set; }
+        public Guid Id { get; private set; }
     }
 }
